@@ -1,0 +1,10 @@
+*.yaml
+*.yml
+*.txt
+*.sh
+*.dv
+*.log
+*.md
+.vscode
+nginx/
+templates/
